@@ -1,0 +1,94 @@
+Costruir um header fixo,
+contendo a logo, home, blog (alternativo),sobre mim, o serviço prestado,depoimentos, e contato
+
+pg 1 home: sera a pg inicial vai conter o slide passando as imagens como tela de fundo;
+tera no centro o nome da barbea. missao e valores e por ultimo um botao de contato que vai direcionar ao pg contato;
+
+pg 2 sobre mim: ira´conter a historia da loja, e informações sobre o rorietario com ft
+e ft e informações dos trabalhadores adicionais;
+
+pg 3 Serviços: H3 Serviços, h1 Frase de efeito, h4 uma frase ue chame atençao ara o servico
+3 ou 4 blocos indicando o tipo de servico, ex corte de cabelo + estilo de barba, corte de cabelo, dia do noivo cada um 
+com a sua discrição e valor;
+
+pg 4 Trabalhos executados: galeria de fotos com imagem dos serviços feitos no clientes; tipo post do insta;
+
+pg 5 depoimentos: feito com slides que vai passando a medida que aperta;
+
+pg 6 blog: Como e mais avançado pode colocar os posts do insta no lugar; no avançado tera o blog com opçao de comentar;
+
+pg 7 contato: Com nome, email, whats, tipo de serviço, mensagem e o botao de enviar;
+
+pg 8 colocar opçao de mapa abaixo do contato;
+
+pg 9 footer: colocar o coping right direitos reservado da loja e as redes sociais
+
+
+
+/* Color Theme Swatches in Hex */
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-1-hex { color: #0D0D0C; }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-2-hex { color: #F2EFDF; }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-3-hex { color: #8C6C61; }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-4-hex { color: #D9AFA0; }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-5-hex { color: #732D27; }
+
+/* Color Theme Swatches in RGBA */
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-1-rgba { color: rgba(12, 12, 11, 1); }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-2-rgba { color: rgba(242, 239, 222, 1); }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-3-rgba { color: rgba(140, 108, 96, 1); }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-4-rgba { color: rgba(216, 175, 160, 1); }
+.Barbeiro-cortando-cabelo-do-seu-cliente-da-sua-barbearia-no-estilo-vintage-5-rgba { color: rgba(114, 45, 39, 1); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* html{
+    scroll-behavior: smooth;
+
+}
+
+.sec{
+    height: 600px;
+    color: #fff;
+} */
+
+/* .Home{
+    background-color: snow;
+}
+.Blog{
+    background-color: snow;
+}
+.Sobrenos{
+    background-color: snow;
+}
+.Depoimentos{
+    background-color: snow;
+}
+.Servico{
+    background-color: snow;
+}
+.Contato{
+    background-color: snow;
+} */
+   <!-- <section class="sec" id="Home" >
+            <a href="#Home"></a>
+            <section class="sec" id="Blog" >
+                <a href="#Blog"></a>
+                <section class="sec" id="Sobrenos" >
+                    <a href="#Sobrenos"></a>
+                    <section class="sec" id="Servicos" >
+                        <a href="#Servicos"></a>
+                         <section class="sec" id="Depoimentos" >
+                            <a href="#Depoimentos"></a>
+                            <section class="sec" id="Contato" >
+                                <a href="#Contato"></a>
+            </section> -->
